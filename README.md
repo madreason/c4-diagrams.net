@@ -2,13 +2,13 @@
 The **EasyC4** library is for quick, convenient and aesthetic C4 diagrams creating in *diagrams.net* application.
 The library contains following easy to use elements:
 
-![c4-diagrams.net](/c4-diagrams-net-maciek365.png)
+![c4-diagrams.net](/EasyC4.png)
 
 
 
 # How to start?
 ## Just click the link!
-You can start very, very easy! Just click following link and start using **EasyC4** library: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/maciek365/c4-diagrams.net/master/EasyC4&splash=0
+You can start very, very easy! Just click following link and start using **EasyC4** library: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/madreason/c4-diagrams.net/master/EasyC4.xml&splash=0
 
 
 ## Use it simply!
