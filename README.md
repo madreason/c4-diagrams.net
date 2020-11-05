@@ -31,6 +31,11 @@ The C4 model and diagramming approach created by Simon Brown. More info: https:/
 
 # What's new
 
+05.11.2020
+- Changed connector font size 10 -> 12
+- Added "Storage" element for confluence
+- Added "Queue" element
+
 31.10.2020
 - Added "External Person" element
 - Added "Deployment node container" element
